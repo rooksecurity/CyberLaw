@@ -1,1 +1,4 @@
-(4) provide for appropriate penalties for any officer, employee, or agent of an agency or department who violates the restrictions under this Act with respect to receipt, retention or disclosure of cyber threat indicators.
+(4) provide for appropriate penalties for any officer, employee, 
+or agent of an agency or department who violates the 
+restrictions under this Act with respect to receipt, retention 
+or disclosure of cyber threat indicators.

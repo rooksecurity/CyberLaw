@@ -1,1 +1,5 @@
-(4) GOVERNMENTAL ENTITY- The term `governmental entity' means any Federal entity and agency or department of a State, local, tribal, or territorial government, or any component, officer, employee, or agent of such an agency or department, acting in his or her official capacity.
+(4) GOVERNMENTAL ENTITY- The term `governmental entity' means 
+any Federal entity and agency or department of a State, local, 
+tribal, or territorial government, or any component, officer, 
+employee, or agent of such an agency or department, acting in 
+his or her official capacity.

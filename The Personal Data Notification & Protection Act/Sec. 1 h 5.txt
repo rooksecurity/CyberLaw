@@ -1,1 +1,3 @@
-(5) a user name or electronic mail address, in combination with a password or security question and answer that would permit access to an online account; or
+(5) a user name or electronic mail address, in combination with 
+a password or security question and answer that would permit 
+access to an online account; or

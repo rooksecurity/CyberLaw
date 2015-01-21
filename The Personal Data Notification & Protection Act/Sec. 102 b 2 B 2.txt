@@ -1,1 +1,4 @@
-(2) all log-in information associated with databases or data systems containing sensitive personally identifiable information, including both administrator and user log-in information.
+(2) all log-in information associated with databases or data 
+systems containing sensitive personally identifiable 
+information, including both administrator and user log-in 
+information.

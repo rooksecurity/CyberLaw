@@ -1,36 +1,75 @@
 (e)
 …
-(6) “exceeds authorized access” means to access a computer with authorization and to use such access to obtain or alter information in such computer——
+(6) “exceeds authorized access” means to access a computer with 
+authorization and to use such access to obtain or alter 
+information in such computer——
 
 (A) that the accesser is not entitled to obtain or alter; or
 
-(B) for a purpose that the accesser knows is not authorized by the computer owner;
+(B) for a purpose that the accesser knows is not authorized by 
+the computer owner;
 …
 
-(11) the term "loss" means any reasonable cost to any victim, including the cost of responding to an offense, conducting a damage assessment, and restoring the data, program, system, or information to its condition prior to the offense, and any revenue lost, cost incurred, or other consequential damages incurred because of interruption of service; and
+(11) the term "loss" means any reasonable cost to any victim, 
+including the cost of responding to an offense, conducting a 
+damage assessment, and restoring the data, program, system, or 
+information to its condition prior to the offense, and any 
+revenue lost, cost incurred, or other consequential damages 
+incurred because of interruption of service; and
 
-(12) the term “person” means any individual, firm, corporation, educational institution, financial institution, government entity, or legal or other entity; and
+(12) the term “person” means any individual, firm, corporation, 
+educational institution, financial institution, government 
+entity, or legal or other entity; and
 
-(13) the term “willfully” means intentionally to undertake an act that the person knows to be wrongful;
+(13) the term “willfully” means intentionally to undertake an 
+act that the person knows to be wrongful;
 …
 
 (i) Criminal Forfeiture
 
-(1) The court, in imposing sentence on any person convicted of a violation of this section, or convicted of conspiracy to violate this section, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person forfeit to the United States—
+(1) The court, in imposing sentence on any person convicted of a 
+violation of this section, or convicted of conspiracy to violate 
+this section, shall order, in addition to any other sentence 
+imposed and irrespective of any provision of State law, that 
+such person forfeit to the United States—
 
-(A) such person's interest in any property, real or personal, that was used or intended to be used to commit or to facilitate the commission of such violation; and
+(A) such person's interest in any property, real or personal, 
+that was used or intended to be used to commit or to facilitate 
+the commission of such violation; and
 
-(B) any property, real or personal, constituting or derived from, any gross proceeds, or any property traceable to such property, that such person obtained, directly or indirectly, as a result of such violation.
+(B) any property, real or personal, constituting or derived 
+from, any gross proceeds, or any property traceable to such 
+property, that such person obtained, directly or indirectly, as 
+a result of such violation.
 
-(2) The criminal forfeiture of property under this subsection, including any seizure and disposition of the property , and any related judicial or administrative proceeding, shall be governed by the provisions of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), except subsection (d) of that section.
+(2) The criminal forfeiture of property under this subsection, 
+including any seizure and disposition of the property , and any 
+related judicial or administrative proceeding, shall be governed 
+by the provisions of section 413 of the Comprehensive Drug Abuse 
+Prevention and Control Act of 1970 (21 U.S.C. 853), except 
+subsection (d) of that section.
 
 (j) Civil Forfeiture
 
-(1) The following shall be subject to forfeiture to the United States and no property right shall exist in them:
+(1) The following shall be subject to forfeiture to the United 
+States and no property right shall exist in them:
 
-(A) Any property, real or personal, that was used or intended to be used to commit or to facilitate the commission of any violation of this section, or a conspiracy to violate this section.
+(A) Any property, real or personal, that was used or intended to 
+be used to commit or to facilitate the commission of any 
+violation of this section, or a conspiracy to violate this 
+section.
 
-(B) Any property, real or personal, constituting or is derived from any gross proceeds obtained directly or indirectly, or any
-property traceable to such property, as a result of the commission of any violation of this section, or a conspiracy to violate this section.
+(B) Any property, real or personal, constituting or is derived 
+from any gross proceeds obtained directly or indirectly, or any
+property traceable to such property, as a result of the 
+commission of any violation of this section, or a conspiracy to 
+violate this section.
 
-(2) Seizures and forfeitures under this subsection shall be governed by the provisions of chapter 46 of title 18, United States Code, relating to civil forfeitures, except that such duties as are imposed on the Secretary of the Treasury under the customs laws described in section 981(d) of title 18 shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security or the Attorney General.
+(2) Seizures and forfeitures under this subsection shall be 
+governed by the provisions of chapter 46 of title 18, United 
+States Code, relating to civil forfeitures, except that such 
+duties as are imposed on the Secretary of the Treasury under the 
+customs laws described in section 981(d) of title 18 shall be 
+performed by such officers, agents, and other persons as may be 
+designated for that purpose by the Secretary of Homeland 
+Security or the Attorney General.

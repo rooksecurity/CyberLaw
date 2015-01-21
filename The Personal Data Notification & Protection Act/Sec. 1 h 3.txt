@@ -1,1 +1,3 @@
-(3) unique biometric data such as a finger print, voice print, a retina or iris image, or any other unique physical representation;
+(3) unique biometric data such as a finger print, voice print, a 
+retina or iris image, or any other unique physical 
+representation;

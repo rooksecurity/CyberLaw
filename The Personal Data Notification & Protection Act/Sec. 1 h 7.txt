@@ -1,1 +1,7 @@
-(7) MODIFIED DEFINITION BY RULEMAKING—The Commission may, by rule promulgated under section 553 of title 5, United States Code, amend the definition of `sensitive personally identifiable information' to the extent that such amendment will not unreasonably impede interstate commerce, and will accomplish the purposes of this title. In amending the definition, the Commission may determine—
+(7) MODIFIED DEFINITION BY RULEMAKING—The Commission may, by 
+rule promulgated under section 553 of title 5, United States 
+Code, amend the definition of `sensitive personally identifiable 
+information' to the extent that such amendment will not 
+unreasonably impede interstate commerce, and will accomplish the 
+purposes of this title. In amending the definition, the 
+Commission may determine—

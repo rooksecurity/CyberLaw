@@ -1,1 +1,5 @@
-(b) Federal Preemption- This Act supersedes any law or requirement of a State or political subdivision of a State that restricts or otherwise expressly regulates the retention, use or disclosure of cyber threat indicators by private entities to the extent such law contains requirements inconsistent with this Act.
+(b) Federal Preemption- This Act supersedes any law or 
+requirement of a State or political subdivision of a State that 
+restricts or otherwise expressly regulates the retention, use or 
+disclosure of cyber threat indicators by private entities to the 
+extent such law contains requirements inconsistent with this Act.

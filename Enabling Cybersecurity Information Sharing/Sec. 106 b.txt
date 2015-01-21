@@ -1,1 +1,3 @@
-(b) Protection From Public Disclosure- Any cyber threat indicator disclosed by a non-Federal entity to the National Cybersecurity and Communications Integration Center, shall be-
+(b) Protection From Public Disclosure- Any cyber threat 
+indicator disclosed by a non-Federal entity to the National 
+Cybersecurity and Communications Integration Center, shall be-

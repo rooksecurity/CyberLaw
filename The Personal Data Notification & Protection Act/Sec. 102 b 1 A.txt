@@ -1,1 +1,12 @@
-(A) a risk assessment conducted by or on behalf of the business entity concludes that there is no reasonable risk that a security breach has resulted in, or will result in, harm to the individuals whose sensitive personally identifiable information was subject to the security breach. If the data at issue was rendered unusable, unreadable, or indecipherable through a security technology or methodology generally accepted by experts in the field of information security, there shall be a presumption that no reasonable risk exists. Any such presumption shall be rebuttable by facts demonstrating that the security technologies or methodologies in a specific case have been, or are reasonably likely to have been, compromised; and
+(A) a risk assessment conducted by or on behalf of the business 
+entity concludes that there is no reasonable risk that a 
+security breach has resulted in, or will result in, harm to the 
+individuals whose sensitive personally identifiable information 
+was subject to the security breach. If the data at issue was 
+rendered unusable, unreadable, or indecipherable through a 
+security technology or methodology generally accepted by experts 
+in the field of information security, there shall be a 
+presumption that no reasonable risk exists. Any such presumption 
+shall be rebuttable by facts demonstrating that the security 
+technologies or methodologies in a specific case have been, or 
+are reasonably likely to have been, compromised; and

@@ -1,1 +1,3 @@
-(e) DATE AND TIME.—The term “date and time” includes the date, time, and specification of the time zone offset from Coordinated Universal Time (UTC).
+(e) DATE AND TIME.—The term “date and time” includes the date, 
+time, and specification of the time zone offset from Coordinated 
+Universal Time (UTC).

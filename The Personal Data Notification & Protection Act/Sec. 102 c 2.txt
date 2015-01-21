@@ -1,1 +1,5 @@
-(2) LIMITATION.—The exemption in paragraph (1) does not apply if the information subject to the security breach includes the individual’s first and last name or any other type of sensitive personally identifiable information other than a credit card number or credit card security code.
+(2) LIMITATION.—The exemption in paragraph (1) does not apply if 
+the information subject to the security breach includes the 
+individual’s first and last name or any other type of sensitive 
+personally identifiable information other than a credit card 
+number or credit card security code.

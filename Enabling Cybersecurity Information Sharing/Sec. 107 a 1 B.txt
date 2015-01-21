@@ -1,1 +1,3 @@
-(B) establishing a process to anonymize and safeguard information received and disclosed, that can be used to identify specific persons unrelated to a cyber threat;
+(B) establishing a process to anonymize and safeguard 
+information received and disclosed, that can be used to identify 
+specific persons unrelated to a cyber threat;

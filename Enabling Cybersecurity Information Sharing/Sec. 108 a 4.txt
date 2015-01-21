@@ -1,1 +1,11 @@
-(4) to permit the otherwise unauthorized disclosure by a private entity of information or material that has been determined by the United States Government pursuant to an Executive order, statute, or regulation to require protection against unauthorized disclosure for reasons of national defense or foreign relations of the United States; any restricted data, as defined in paragraph y of section 11 of the Atomic Energy Act of 1954; information related to intelligence sources and methods; or information that is specifically subject to a court order or a certification, directive, or other authority precluding such disclosure;
+(4) to permit the otherwise unauthorized disclosure by a private 
+entity of information or material that has been determined by 
+the United States Government pursuant to an Executive order, 
+statute, or regulation to require protection against 
+unauthorized disclosure for reasons of national defense or 
+foreign relations of the United States; any restricted data, as 
+defined in paragraph y of section 11 of the Atomic Energy Act of 
+1954; information related to intelligence sources and methods; 
+or information that is specifically subject to a court order or 
+a certification, directive, or other authority precluding such 
+disclosure;

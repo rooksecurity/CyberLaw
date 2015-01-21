@@ -1,1 +1,4 @@
-(A) failure to conduct the risk assessment in a reasonable manner or according to standards generally accepted by experts in the field of information security shall constitute a violation of this section.
+(A) failure to conduct the risk assessment in a reasonable 
+manner or according to standards generally accepted by experts 
+in the field of information security shall constitute a 
+violation of this section.

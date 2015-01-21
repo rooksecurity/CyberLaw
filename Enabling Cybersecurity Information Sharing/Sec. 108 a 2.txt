@@ -1,1 +1,3 @@
-(2) to limit an entity’s authority to share information concerning potential criminal activity or investigations with law enforcement entities;
+(2) to limit an entity’s authority to share information 
+concerning potential criminal activity or investigations with 
+law enforcement entities;

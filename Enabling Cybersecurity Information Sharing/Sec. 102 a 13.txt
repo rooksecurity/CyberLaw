@@ -1,1 +1,7 @@
-(13) TECHNICAL CONTROL- The term `technical control' means a hardware or software restriction on, or audit of, access or use of an information system or information that is stored on, processed by, or transiting an information system that is intended to ensure the confidentiality, integrity, or availability of that information system or the information processed or stored by that information system.
+(13) TECHNICAL CONTROL- The term `technical control' means a 
+hardware or software restriction on, or audit of, access or use 
+of an information system or information that is stored on, 
+processed by, or transiting an information system that is 
+intended to ensure the confidentiality, integrity, or 
+availability of that information system or the information 
+processed or stored by that information system.

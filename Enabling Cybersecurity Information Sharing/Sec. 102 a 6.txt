@@ -1,1 +1,4 @@
-(6) INFORMATION SYSTEM- The term `information system' means a discrete set of hardware and software information resources that collects, processes, maintains, uses, shares, disseminates, or disposes of information and communications.
+(6) INFORMATION SYSTEM- The term `information system' means a 
+discrete set of hardware and software information resources that 
+collects, processes, maintains, uses, shares, disseminates, or 
+disposes of information and communications.

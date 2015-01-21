@@ -1,1 +1,3 @@
-(3) to limit or prohibit otherwise lawful disclosures of information by a private entity to any governmental or private entity not conducted under this Act;
+(3) to limit or prohibit otherwise lawful disclosures of 
+information by a private entity to any governmental or private 
+entity not conducted under this Act;

@@ -1,1 +1,4 @@
-(A) effectively blocks the use of the sensitive personally identifiable information to initiate unauthorized financial transactions before they are charged to the account of the individual; and
+(A) effectively blocks the use of the sensitive personally 
+identifiable information to initiate unauthorized financial 
+transactions before they are charged to the account of the 
+individual; and

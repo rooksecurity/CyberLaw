@@ -1,1 +1,5 @@
-(1) may use, retain, or further disclose such cyber threat indicators solely for the purpose of protecting an information system or information that is stored on, processed by, or transiting an information system from cyber threats or identifying or mitigating such threats, or for reporting a crime;
+(1) may use, retain, or further disclose such cyber threat 
+indicators solely for the purpose of protecting an information 
+system or information that is stored on, processed by, or 
+transiting an information system from cyber threats or 
+identifying or mitigating such threats, or for reporting a crime;

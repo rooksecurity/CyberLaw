@@ -1,1 +1,5 @@
-(2) EXCLUSION.—The term “security breach” does not include any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States.
+(2) EXCLUSION.—The term “security breach” does not include any 
+lawfully authorized investigative, protective, or intelligence 
+activity of a law enforcement agency of the United States, a 
+State, or a political subdivision of a State, or of an 
+intelligence agency of the United States.

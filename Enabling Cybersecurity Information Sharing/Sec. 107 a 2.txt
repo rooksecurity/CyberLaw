@@ -1,1 +1,4 @@
-(2) establish guidelines, which shall be made public, to permit law enforcement use of cyber threat indicators received by a governmental entity pursuant to Section 105, only to investigate, prosecute, disrupt, or otherwise respond to
+(2) establish guidelines, which shall be made public, to permit 
+law enforcement use of cyber threat indicators received by a 
+governmental entity pursuant to Section 105, only to 
+investigate, prosecute, disrupt, or otherwise respond to

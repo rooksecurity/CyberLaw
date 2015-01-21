@@ -1,1 +1,3 @@
-(10) OPERATIONAL CONTROL- The term `operational control' means a security control for an information system that primarily is implemented and executed by people.
+(10) OPERATIONAL CONTROL- The term `operational control' means a 
+security control for an information system that primarily is 
+implemented and executed by people.

@@ -1,1 +1,4 @@
-(f) INTERNET ADDRESS.—The term “Internet address” means an Internet Protocol address as specified by the Internet Protocol version 4 or 6 protocol, or any successor protocol or any unique number for a specific host on the Internet.
+(f) INTERNET ADDRESS.—The term “Internet address” means an 
+Internet Protocol address as specified by the Internet Protocol 
+version 4 or 6 protocol, or any successor protocol or any unique 
+number for a specific host on the Internet.

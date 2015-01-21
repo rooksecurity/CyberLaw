@@ -1,1 +1,4 @@
-(1) Where regulations relate to entities subject to the authority of the Federal Communications Commission, the promulgation of such regulations will be coordinated with the Federal Communications Commission.
+(1) Where regulations relate to entities subject to the 
+authority of the Federal Communications Commission, the 
+promulgation of such regulations will be coordinated with the 
+Federal Communications Commission.

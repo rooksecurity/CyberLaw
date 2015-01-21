@@ -1,1 +1,5 @@
-(1) reasonably limit the acquisition, interception, retention, use and disclosure of cyber threat indicators that are reasonably likely to identify specific persons, consistent with the need to carry out the responsibilities of this Act, including by
+(1) reasonably limit the acquisition, interception, retention, 
+use and disclosure of cyber threat indicators that are 
+reasonably likely to identify specific persons, consistent with 
+the need to carry out the responsibilities of this Act, 
+including by

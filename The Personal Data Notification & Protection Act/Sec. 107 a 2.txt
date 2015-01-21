@@ -1,1 +1,4 @@
-(2) Where enforcement relates to financial information or information associated with the provision of financial products or services, enforcement actions by the commission will be coordinated with the Consumer Financial Protection Bureau.
+(2) Where enforcement relates to financial information or 
+information associated with the provision of financial products 
+or services, enforcement actions by the commission will be 
+coordinated with the Consumer Financial Protection Bureau.

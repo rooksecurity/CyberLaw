@@ -1,1 +1,5 @@
-(5) to authorize or limit liability for actions that would violate the regulations adopted by the Federal Communications Commission on preserving the open Internet, or any successor regulations thereto, nor to modify or alter the obligations of private entities under such regulations; or
+(5) to authorize or limit liability for actions that would 
+violate the regulations adopted by the Federal Communications 
+Commission on preserving the open Internet, or any successor 
+regulations thereto, nor to modify or alter the obligations of 
+private entities under such regulations; or

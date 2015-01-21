@@ -1,1 +1,6 @@
-(1) for each communication or attempted communication with a database or data system containing sensitive personally identifiable information, the data system communication information for the communication or attempted communication, including any Internet addresses, and the date and time associated with the communication or attempted communication; and
+(1) for each communication or attempted communication with a 
+database or data system containing sensitive personally 
+identifiable information, the data system communication 
+information for the communication or attempted communication, 
+including any Internet addresses, and the date and time 
+associated with the communication or attempted communication; and

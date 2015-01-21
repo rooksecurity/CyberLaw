@@ -1,1 +1,5 @@
-(d) DATA SYSTEM COMMUNICATION INFORMATION.—The term “data system communication information” means dialing, routing, addressing or signaling information that identifies the origin, direction, destination, processing, transmission, or termination of each communication initiated, attempted, or received.
+(d) DATA SYSTEM COMMUNICATION INFORMATION.—The term “data system 
+communication information” means dialing, routing, addressing or 
+signaling information that identifies the origin, direction, 
+destination, processing, transmission, or termination of each 
+communication initiated, attempted, or received.

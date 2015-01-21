@@ -1,1 +1,3 @@
-(B) from which the individual may learn what types of sensitive personally identifiable information the business entity maintained about that individual; and
+(B) from which the individual may learn what types of sensitive 
+personally identifiable information the business entity 
+maintained about that individual; and

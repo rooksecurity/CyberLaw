@@ -1,1 +1,5 @@
-(b) Before opening an investigation, the Commission must consult with the Attorney General. The Commission may initiate investigations under this subsection unless the Attorney General determines that such an investigation would impede an ongoing criminal investigation or national security activity.
+(b) Before opening an investigation, the Commission must consult 
+with the Attorney General. The Commission may initiate 
+investigations under this subsection unless the Attorney General 
+determines that such an investigation would impede an ongoing 
+criminal investigation or national security activity.

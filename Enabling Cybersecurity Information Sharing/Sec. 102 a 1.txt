@@ -1,1 +1,10 @@
-(1) CYBER THREAT- The term `cyber threat' means any action that may result in unauthorized access in order to damage or impair the integrity, confidentiality, or availability of an information system or unauthorized exfiltration, deletion, or manipulation of information that is stored on, processed by, or transiting an information system, except that exceeding authorized access of an information system shall not be considered a cyber threat if such access solely involves a violation of consumer terms of service or consumer licensing agreements.
+(1) CYBER THREAT- The term `cyber threat' means any action that 
+may result in unauthorized access in order to damage or impair 
+the integrity, confidentiality, or availability of an 
+information system or unauthorized exfiltration, deletion, or 
+manipulation of information that is stored on, processed by, or 
+transiting an information system, except that exceeding 
+authorized access of an information system shall not be 
+considered a cyber threat if such access solely involves a 
+violation of consumer terms of service or consumer licensing 
+agreements.

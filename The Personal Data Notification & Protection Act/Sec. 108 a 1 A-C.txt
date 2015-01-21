@@ -2,5 +2,9 @@
 
 (B) enforce compliance with this Title; or
 
-(C) impose civil penalties of not more than $1,000 per day per individual whose sensitive
-personally identifiable information was, or is reasonably believed to have been, accessed or acquired by an unauthorized person, up to a maximum of $1,000,000 per violation unless such conduct is found to be willful or intentional.
+(C) impose civil penalties of not more than $1,000 per day per 
+individual whose sensitive
+personally identifiable information was, or is reasonably 
+believed to have been, accessed or acquired by an unauthorized 
+person, up to a maximum of $1,000,000 per violation unless such 
+conduct is found to be willful or intentional.

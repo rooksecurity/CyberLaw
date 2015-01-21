@@ -1,1 +1,4 @@
-(1) IN GENERAL.—The term “security breach” means a compromise of the security, confidentiality, or integrity of, or the loss of, computerized data that results in, or there is a reasonable basis to conclude has resulted in –
+(1) IN GENERAL.—The term “security breach” means a compromise of 
+the security, confidentiality, or integrity of, or the loss of, 
+computerized data that results in, or there is a reasonable 
+basis to conclude has resulted in –

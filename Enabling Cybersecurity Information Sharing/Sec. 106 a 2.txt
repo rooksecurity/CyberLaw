@@ -1,1 +1,5 @@
-(2) a private information sharing and analysis organization, provided such organization maintains a publicly-available self-certification that it has adopted the best practices in accordance with those identified or developed pursuant to Section 104.
+(2) a private information sharing and analysis organization, 
+provided such organization maintains a publicly-available 
+self-certification that it has adopted the best practices in 
+accordance with those identified or developed pursuant to 
+Section 104.

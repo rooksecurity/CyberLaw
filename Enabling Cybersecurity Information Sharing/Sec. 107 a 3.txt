@@ -1,1 +1,5 @@
-(3) preserve the confidentiality of disclosed proprietary information to the greatest extent practicable, and require recipients of such information to be informed that the cyber threat indicators disclosed may only be used for the purposes authorized in this Act; and
+(3) preserve the confidentiality of disclosed proprietary 
+information to the greatest extent practicable, and require 
+recipients of such information to be informed that the cyber 
+threat indicators disclosed may only be used for the purposes 
+authorized in this Act; and

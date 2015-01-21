@@ -1,1 +1,6 @@
-(3) BUSINESS ENTITY RELIEVED FROM GIVING NOTICE.—A business entity obligated to give notice under subsection (a) shall be relieved of such obligation if an owner or licensee of the sensitive personally identifiable information subject to the security breach, or other designated third party, provides such notification.
+(3) BUSINESS ENTITY RELIEVED FROM GIVING NOTICE.—A business 
+entity obligated to give notice under subsection (a) shall be 
+relieved of such obligation if an owner or licensee of the 
+sensitive personally identifiable information subject to the 
+security breach, or other designated third party, provides such 
+notification.

@@ -1,1 +1,2 @@
-(A) that any particular combinations of information are sensitive personally identifiable information, or
+(A) that any particular combinations of information are 
+sensitive personally identifiable information, or

@@ -1,1 +1,4 @@
-(11) PRIVATE ENTITY- The term `private entity' has the meaning given the term `person' in section 1 of title 1, United States Code, and does not include a governmental entity, or a foreign government or any component thereof.
+(11) PRIVATE ENTITY- The term `private entity' has the meaning 
+given the term `person' in section 1 of title 1, United States 
+Code, and does not include a governmental entity, or a foreign 
+government or any component thereof.

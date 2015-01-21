@@ -1,1 +1,9 @@
-(a) Standards Organization – The Secretary of Homeland Security, in consultation with the Secretary of Commerce, the Attorney General, the Director of the Office of Management and Budget, the heads of sector-specific agencies and other appropriate Federal agencies, shall through an open and competitive process, select a private entity to identify, or develop if necessary, through an open and consultative process, a common set of best practices for the creation and operation of private information sharing and analysis organizations.
+(a) Standards Organization – The Secretary of Homeland Security, 
+in consultation with the Secretary of Commerce, the Attorney 
+General, the Director of the Office of Management and Budget, 
+the heads of sector-specific agencies and other appropriate 
+Federal agencies, shall through an open and competitive process, 
+select a private entity to identify, or develop if necessary, 
+through an open and consultative process, a common set of best 
+practices for the creation and operation of private information 
+sharing and analysis organizations.

@@ -1,6 +1,11 @@
-(i) malicious reconnaissance, including communications that reasonably appear to be transmitted for the purpose of gathering technical information related to a cyber threat;
+(i) malicious reconnaissance, including communications that 
+reasonably appear to be transmitted for the purpose of gathering 
+technical information related to a cyber threat;
 (ii) a method of defeating a technical or operational control;
 (iii) a technical vulnerability;
-(iv) a method of causing a user with legitimate access to an information system or information that is stored on, processed by, or transiting an information system inadvertently to enable the defeat of a technical control or an operational control;
+(iv) a method of causing a user with legitimate access to an 
+information system or information that is stored on, processed 
+by, or transiting an information system inadvertently to enable 
+the defeat of a technical control or an operational control;
 (v) malicious cyber command and control;
 (vi) any combination of (i)-(v).

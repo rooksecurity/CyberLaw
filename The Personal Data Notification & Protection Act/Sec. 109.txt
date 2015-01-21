@@ -1,3 +1,7 @@
 SEC. 109. EFFECT ON FEDERAL AND STATE LAW.
 
-The provisions of this title shall supersede any provision of the law of any State, or a political subdivision thereof, relating to notification by a business entity engaged in interstate commerce of a security breach of computerized data, except as provided in section 104(c).
+The provisions of this title shall supersede any provision of 
+the law of any State, or a political subdivision thereof, 
+relating to notification by a business entity engaged in 
+interstate commerce of a security breach of computerized data, 
+except as provided in section 104(c).

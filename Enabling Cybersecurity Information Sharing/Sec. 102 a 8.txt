@@ -1,1 +1,6 @@
-(8) MALICIOUS RECONNAISSANCE- The term `malicious reconnaissance' means a method for probing or monitoring an information system for the purpose of discerning technical vulnerabilities of the information system, if such method is known or reasonably suspected of being associated with a known or suspected cyber threat.
+(8) MALICIOUS RECONNAISSANCE- The term `malicious 
+reconnaissance' means a method for probing or monitoring an 
+information system for the purpose of discerning technical 
+vulnerabilities of the information system, if such method is 
+known or reasonably suspected of being associated with a known 
+or suspected cyber threat.

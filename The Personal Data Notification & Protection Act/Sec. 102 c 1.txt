@@ -1,1 +1,3 @@
-(1) IN GENERAL.—A business entity will be exempt from the notice requirement under section 101 if the business entity utilizes or participates in a security program that—
+(1) IN GENERAL.—A business entity will be exempt from the notice 
+requirement under section 101 if the business entity utilizes or 
+participates in a security program that—

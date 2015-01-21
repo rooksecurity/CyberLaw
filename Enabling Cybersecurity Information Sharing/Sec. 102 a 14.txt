@@ -1,1 +1,3 @@
-(14) TECHNICAL VULNERABILITY- The term `technical vulnerability' means any attribute of hardware, firmware or software that could enable or facilitate the defeat of a technical control.
+(14) TECHNICAL VULNERABILITY- The term `technical vulnerability' 
+means any attribute of hardware, firmware or software that could 
+enable or facilitate the defeat of a technical control.

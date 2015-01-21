@@ -1,1 +1,5 @@
-(2) shall take reasonable efforts to minimize information that can be used to identify specific persons and is reasonably believed to be unrelated to a cyber threat; and to safeguard information that can be used to identify specific persons from unintended disclosure and unauthorized access or acquisition; and
+(2) shall take reasonable efforts to minimize information that 
+can be used to identify specific persons and is reasonably 
+believed to be unrelated to a cyber threat; and to safeguard 
+information that can be used to identify specific persons from 
+unintended disclosure and unauthorized access or acquisition; and

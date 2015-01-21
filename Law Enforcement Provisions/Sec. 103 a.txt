@@ -1,16 +1,29 @@
 (a) Whoever —
 …
 (2)
-(A) intentionally accesses a protected computer without authorization, and thereby obtains information from such protected computer; or
+(A) intentionally accesses a protected computer without 
+authorization, and thereby obtains information from such 
+protected computer; or
 
-(B) intentionally exceeds authorized access to a protected computer, and thereby obtains information from such computer, and
+(B) intentionally exceeds authorized access to a protected 
+computer, and thereby obtains information from such computer, and
 (i)the value of the information obtained exceeds $5,000;
 
-(ii)the offense was committed in furtherance of any felony violation of the laws of the United States or of any State, unless such violation would be based solely on obtaining the information without authorization or in excess of authorization; or
+(ii)the offense was committed in furtherance of any felony 
+violation of the laws of the United States or of any State, 
+unless such violation would be based solely on obtaining the 
+information without authorization or in excess of authorization; 
+or
 
-(iii) the protected computer is owned or operated by or on behalf of a governmental entity;
+(iii) the protected computer is owned or operated by or on 
+behalf of a governmental entity;
 
 …
 
-(6) knowingly and willfully traffics (as defined in section 1029) in any password or similar information, or any other means of access, knowing or having reason to know that a protected computer would be accessed or damaged without authorization in a manner prohibited by this section as the result of such trafficking;, 
+(6) knowingly and willfully traffics (as defined in section 
+1029) in any password or similar information, or any other means 
+of access, knowing or having reason to know that a protected 
+computer would be accessed or damaged without authorization in a 
+manner prohibited by this section as the result of such 
+trafficking;, 
 …

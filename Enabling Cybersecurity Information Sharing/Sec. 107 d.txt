@@ -1,1 +1,7 @@
-(d) On an annual basis, the Chief Privacy and Civil Liberties Officers of the Department of Justice and the Department of Homeland Security, in consultation with the privacy and civil liberties officers of appropriate agencies, shall submit a joint report to the Congress assessing the privacy and civil liberties impact of the governmental activities conducted pursuant to this Act.
+(d) On an annual basis, the Chief Privacy and Civil Liberties 
+Officers of the Department of Justice and the Department of 
+Homeland Security, in consultation with the privacy and civil 
+liberties officers of appropriate agencies, shall submit a joint 
+report to the Congress assessing the privacy and civil liberties 
+impact of the governmental activities conducted pursuant to this 
+Act.

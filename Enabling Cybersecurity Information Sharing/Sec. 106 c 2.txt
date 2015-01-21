@@ -1,1 +1,5 @@
-(2) Nothing in this subsection shall be construed to prevent a Federal entity from using a cyber threat indicator received independently through other lawful means in a regulatory enforcement action, even if such cyber threat indicator is also received pursuant to this Act.
+(2) Nothing in this subsection shall be construed to prevent a 
+Federal entity from using a cyber threat indicator received 
+independently through other lawful means in a regulatory 
+enforcement action, even if such cyber threat indicator is also 
+received pursuant to this Act.

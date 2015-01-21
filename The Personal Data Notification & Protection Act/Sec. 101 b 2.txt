@@ -1,1 +1,7 @@
-(2) NOTICE BY OWNER, LICENSEE OR OTHER DESIGNATED THIRD PARTY.—Nothing in this title shall prevent or abrogate an agreement between a business entity required to give notice under this section and a designated third party, including an owner or licensee of the sensitive personally identifiable information subject to the security breach, to provide the notifications required under subsection (a).
+(2) NOTICE BY OWNER, LICENSEE OR OTHER DESIGNATED THIRD 
+PARTY.—Nothing in this title shall prevent or abrogate an 
+agreement between a business entity required to give notice 
+under this section and a designated third party, including an 
+owner or licensee of the sensitive personally identifiable 
+information subject to the security breach, to provide the 
+notifications required under subsection (a).
