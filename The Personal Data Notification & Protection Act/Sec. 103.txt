@@ -1,0 +1,13 @@
+SEC. 103. METHODS OF NOTICE TO INDIVIDUALS.
+
+A business entity shall be in compliance with section 101 if it provides both—
+
+(1) INDIVIDUAL NOTICE.—Notice to individuals by one of the following means:
+
+(A) written notification to the last known home mailing address of the individual in the records of the business entity;
+
+(B) telephone notice to the individual personally; or
+
+(C) e-mail notice, if the individual has consented to receive such notice and the notice is consistent with the provisions permitting electronic transmission of notices under section 101 of the Electronic Signatures in Global and National Commerce Act(section 7001 of title 15, United States Code).
+
+(2) MEDIA NOTICE.— If the number of residents of a State whose sensitive personally identifiable information was, or is reasonably believed to have been, accessed or acquired by an unauthorized person exceeds 5,000, notice to media reasonably calculated to reach such individuals, such as major media outlets serving a State or jurisdiction.

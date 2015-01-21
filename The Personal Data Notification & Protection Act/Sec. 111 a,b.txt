@@ -1,0 +1,3 @@
+(a) business entities to the extent that they act as covered entities and business associates subject to the Health Information Technology for Economic and Clinical Health Act (section 17932 of title 42, United States Code), including the data breach notification requirements and implementing regulations of that Act; and
+
+(b) business entities to the extent that they act as vendors of personal health records and third party service providers subject to the Health Information Technology for Economic and Clinical Health Act (section 17937 of title 42, United States Code), including the data breach notification requirements and implementing regulations of that Act.

@@ -1,0 +1,25 @@
+(a)
+
+18 U.S.C. § 1345. Injunctions against fraud and abuse
+
+(a)(1) If a person is—
+
+(A) violating or about to violate this chapter or section 287, 371 (insofar as such violation involves a conspiracy to defraud the United States or any agency thereof), or 1001 of this title;
+
+(B) committing or about to commit a banking law violation (as defined in section 3322(d) of this title); 
+
+(C) committing or about to commit a Federal health care offense; or
+
+(D) violating or about to violate section 1030 of this title where such conduct would affect 100 or more protected computers during any 1 year period, such as (but not limited to) by denying access to or operation of the computers, installing unwanted software on the computers, using the computers without authorization, or obtaining information from the computers without authorization; the Attorney General may commence a civil action in any Federal court to enjoin such violation.
+
+(2) If a person is alienating or disposing of property, or intends to alienate or dispose of property, obtained as a result of a banking law violation (as defined in section 3322(d) of this title) or a Federal health care offense; a violation described in subparagraph (a)(1)(D); or property which is traceable to such violation, the Attorney General may commence a civil action in any Federal court—
+
+(A) to enjoin such alienation or disposition of property; or
+
+(B) for a restraining order to—
+
+(i) prohibit any person from withdrawing, transferring, removing, dissipating, or disposing of any such property or property of equivalent value; and
+
+(ii) appoint a temporary receiver to administer such restraining order.
+
+(3) A permanent or temporary injunction or restraining order shall be granted without bond.

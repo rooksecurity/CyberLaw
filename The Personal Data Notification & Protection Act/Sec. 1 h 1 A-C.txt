@@ -1,0 +1,3 @@
+(A) home address or telephone number;
+(B) Mother’s maiden name;
+(C) month, day, and year of birth;

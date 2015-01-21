@@ -1,0 +1,5 @@
+SEC. 101. Prosecuting Organized Crime Groups That Utilize Cyber Attacks
+
+18 U.S.C. § 1961(1).
+
+(1) “racketeering activity” means … (B) any act which is indictable under any of the following provisions of title 18, United States Code: … section 1028 (relating to fraud and related activity in connection with identification documents), section 1029 (relating to fraud and related activity in connection with access devices), section 1030 (relating to fraud and related activity in connection with computers) if the act indictable under section 1030 is felonious, section 1084 (relating to the transmission of gambling information), section 1341 (relating to mail fraud), section 1343 (relating to wire fraud), …

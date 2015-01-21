@@ -1,0 +1,1 @@
+(7) MALICIOUS CYBER COMMAND AND CONTROL- The term `malicious cyber command and control' means a method for remote identification of, access to, or use of, an information system or information that is stored on, processed by, or transiting an information system, that is known or reasonably suspected of being associated with a known or suspected cyber threat.
