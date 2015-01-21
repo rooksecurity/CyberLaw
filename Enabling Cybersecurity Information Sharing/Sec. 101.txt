@@ -1,1 +1,3 @@
-SEC. 101. PURPOSE. To codify mechanisms for enabling cybersecurity information sharing between private and government entities, as well as among private entities, to better protect information systems and more effectively respond to cybersecurity incidents.
+SEC. 101. PURPOSE. To codify mechanisms for enabling cybersecurity information sharing between 
+private and government entities, as well as among private entities, to better protect information 
+systems and more effectively respond to cybersecurity incidents.
