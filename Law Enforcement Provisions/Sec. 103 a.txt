@@ -4,17 +4,18 @@
 or exceeding authorized access, and by means of such conduct 
 having obtained information that requires protection against 
 unauthorized disclosure for reasons of national defense or foreign 
-relations, as determined by the United States Government pursuant to 
-an Executive order or statute, or obtained restricted data, as defined in 
-paragraph y. of section 11 of the Atomic Energy Act of 1954, with 
-reason to believe that such information so obtained could be used to 
-the injury of the United States, or to the advantage of any foreign 
-nation willfully communicates, delivers, transmits, or causes to be 
-communicated, delivered, or transmitted, or attempts to communicate, 
-deliver, transmit or cause to be communicated, delivered, or 
-transmitted the same to any person not entitled to receive it, or 
-willfully retains the same and fails to deliver it to the officer 
-or employee of the United States entitled to receive it; 
+relations, as determined by the United States Government pursuant 
+to an Executive order or statute, or obtained restricted data, as 
+defined in paragraph y. of section 11 of the Atomic Energy Act of 
+1954, with reason to believe that such information so obtained 
+could be used to the injury of the United States, or to the 
+advantage of any foreign nation willfully communicates, delivers, 
+transmits, or causes to be communicated, delivered, or transmitted, 
+or attempts to communicate, deliver, transmit or cause to be 
+communicated, delivered, or transmitted the same to any person not 
+entitled to receive it, or willfully retains the same and fails to 
+deliver it to the officer or employee of the United States entitled 
+to receive it; 
 
 (2)
 (A) intentionally accesses a protected computer without 
