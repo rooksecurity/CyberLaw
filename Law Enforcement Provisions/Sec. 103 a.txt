@@ -38,8 +38,8 @@ behalf of a governmental entity;
 …
 
 (6) knowingly and willfully traffics (as defined in section 
-1029) in any password or similar information, or any other means 
-of access, knowing or having reason to know that a protected 
+1029) stolen authentication credentials, or equivalent means 
+of controlled access, knowing or having reason to know that a protected 
 computer would be accessed or damaged without authorization in a 
 manner prohibited by this section as the result of such 
 trafficking;, 
